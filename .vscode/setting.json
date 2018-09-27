@@ -1,0 +1,27 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.lineNumbers": "on",
+    "editor.renderIndentGuides": true,
+    "eslint.options": {
+        "configFile": ".eslintrc"
+    },
+    "less.compile": {
+        "out": "${workspaceRoot}\\css\\"
+    },
+    "less.lint.hexColorLength": "ignore",
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": 0,
+    "typescript.check.npmIsInstalled": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "todohighlight.isEnable": true,
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": true,
+    "editor.formatOnSave": true,
+    "vetur.validation.template": false,
+    "extensions.ignoreRecommendations": false,
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "workbench.startupEditor": "welcomePage",
+    "editor.tabSize": 2,
+    "scm.diffDecorationsGutterWidth": 2
+}
